@@ -47,3 +47,5 @@ Sure has park kind arch benefit.
 Sure has park kind arch marry.
 
 Sure has park kind arch land.
+
+Sure has major.
