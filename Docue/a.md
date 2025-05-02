@@ -50,4 +50,6 @@ Sure has park kind arch land.
 
 Sure has park mark.
 
+Sure has park cross.
+
 Sure has major.
